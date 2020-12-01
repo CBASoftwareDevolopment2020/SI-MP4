@@ -1,0 +1,23 @@
+[
+        {
+            "username": "Daniel",
+            "carId": 1,
+            "review": 1
+        },
+        {
+            "username": "Jacob",
+            "carId": 2,
+            "review": 3
+        },
+        {
+            "username": "Michael",
+            "carId": 3,
+            "review": 5
+        },
+        {
+            "username": "Nikolaj",
+            "carId": 4,
+            "review": 7
+        }
+    ]
+
